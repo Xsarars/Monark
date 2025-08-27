@@ -281,8 +281,8 @@
                         "chancetodrop": 0.4
                     },
                     {
-                        "dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP",
-                        "chancetodrop": 0.5
+                        "dino": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
+                        "chancetodrop": 0.4
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
