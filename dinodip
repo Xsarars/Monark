@@ -350,6 +350,10 @@
                         "dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
                         "chancetodrop": 0.3
                     },
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
+						"chancetodrop": 0.15
+					},
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
                         "chancetodrop": 0.25
